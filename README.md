@@ -6,27 +6,26 @@ Today, at least for this class, what we ended up using to create and improve our
 
 But learning how to work with a robust platform is not as easy as you think, and even this has some entry obstacles. The process of maneuvering in an entirely new digital workspace is strongly dependent on how well a user can locate a particular feature, tools, or paths just by browsing the visual space. Especially as part of the design of this website means that some of the functions are more recognition over recall. The ultimate power of a tool can only be as effective as the user in finding the functions. This is how my first adventure and exploration of the platform started.
 
-![Figma Exploration](J01IMG1.png)
-
+<img src="assets/J01IMG1.jpg" alt="Figma Page">
 When you look at some of the wireframes and designs, it looks good as a design platform no doubt, but at times it is not the easiest to use. With some of the presets that were given and handed to us by professor Buffardi, it is likelier better than having nothing at all. Even with this however, there are times in which using Figma itself is not fun and at times even infuriating as a non-advanced user. 
 
-![Figma login page](J01IMG2.png)
+<img src="assets/J01IMG2.jpg" alt="Figma Login Page">
 
 Given this login page, there is for example the element of the sign in page as you can see here. The text and the creation of the mini icon in this wireframe was pretty easy, however this login page was the trickiest part. 
 
-![Figma login page 2](J01IMG3.png)
+<img src="assets/J01IMG3.jpg" alt="Figma Login Page 2">
 
 For example, when you try to resize some of the parts that you would like to, you can not use the bordered box to do so. You have to search up if you do not know, and use the resize key bind when selecting the box as a whole. 
 
-![Figma login page 3](J01IMG4.png)
+<img src="assets/J01IMG4.jpg" alt="Figma Login Page 3">
 
 One of the reasons that you cannot resize it without the keybinds is even at selecting all using a marquee element if you click on the corner to try and resize, it unselects the rest of the elements which was a bit odd amongst discovery. 
 
-![Figma other page](J01IMG5.png)
+<img src="assets/J01IMG5.jpg" alt="Figma Other Page">
 
 Some other parts that I had noticed was amongst some of the interactions that I had and at least some of the wireframes that I had done, was that if you order some of the elements incorrectly, you need to remove or delete it in order to redo the button for text to be above the block or similar likewise.
 
-![Figma overlap page](J01IMG6.png)
+<img src="assets/J01IMG6.jpg" alt="Figma Overlap Page">
 
 Here it shows the issue in the interaction that I had with the overlap, and as sometimes even with age or something you would believe is coherent would not be and it would appear in the incorrect order. 
 
